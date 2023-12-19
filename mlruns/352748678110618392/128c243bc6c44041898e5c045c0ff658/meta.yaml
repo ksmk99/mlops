@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352748678110618392/128c243bc6c44041898e5c045c0ff658/artifacts
+end_time: 1702686131653
+entry_point_name: ''
+experiment_id: '352748678110618392'
+lifecycle_stage: active
+run_id: 128c243bc6c44041898e5c045c0ff658
+run_name: wistful-mare-256
+run_uuid: 128c243bc6c44041898e5c045c0ff658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702686129342
+status: 3
+tags: []
+user_id: vlad

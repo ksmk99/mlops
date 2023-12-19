@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/333540025929643889/76fa8700e3ed4dddb392d7cb9f4d5063/artifacts
+end_time: 1702686002785
+entry_point_name: ''
+experiment_id: '333540025929643889'
+lifecycle_stage: active
+run_id: 76fa8700e3ed4dddb392d7cb9f4d5063
+run_name: treasured-tern-484
+run_uuid: 76fa8700e3ed4dddb392d7cb9f4d5063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702686001514
+status: 3
+tags: []
+user_id: vlad

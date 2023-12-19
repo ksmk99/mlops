@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702686131646
+current_stage: None
+description: null
+last_updated_timestamp: 1702686131646
+name: rf_regressor
+run_id: 128c243bc6c44041898e5c045c0ff658
+run_link: null
+source: mlflow-artifacts:/352748678110618392/128c243bc6c44041898e5c045c0ff658/artifacts/rf_regressor
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/352748678110618392/128c243bc6c44041898e5c045c0ff658/artifacts/rf_regressor
+user_id: null
+version: 1

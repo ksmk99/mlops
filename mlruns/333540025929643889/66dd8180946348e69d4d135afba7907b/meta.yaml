@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/333540025929643889/66dd8180946348e69d4d135afba7907b/artifacts
+end_time: 1702686018452
+entry_point_name: ''
+experiment_id: '333540025929643889'
+lifecycle_stage: active
+run_id: 66dd8180946348e69d4d135afba7907b
+run_name: righteous-auk-68
+run_uuid: 66dd8180946348e69d4d135afba7907b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702686017282
+status: 3
+tags: []
+user_id: vlad

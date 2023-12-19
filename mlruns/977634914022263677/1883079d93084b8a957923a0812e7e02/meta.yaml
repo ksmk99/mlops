@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977634914022263677/1883079d93084b8a957923a0812e7e02/artifacts
+end_time: 1702686290123
+entry_point_name: ''
+experiment_id: '977634914022263677'
+lifecycle_stage: active
+run_id: 1883079d93084b8a957923a0812e7e02
+run_name: shivering-fly-648
+run_uuid: 1883079d93084b8a957923a0812e7e02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702686290095
+status: 3
+tags: []
+user_id: vlad

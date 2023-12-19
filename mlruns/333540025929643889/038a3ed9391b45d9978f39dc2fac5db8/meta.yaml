@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/333540025929643889/038a3ed9391b45d9978f39dc2fac5db8/artifacts
+end_time: 1702685896627
+entry_point_name: ''
+experiment_id: '333540025929643889'
+lifecycle_stage: active
+run_id: 038a3ed9391b45d9978f39dc2fac5db8
+run_name: learned-penguin-889
+run_uuid: 038a3ed9391b45d9978f39dc2fac5db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702685894662
+status: 4
+tags: []
+user_id: vlad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/333540025929643889/cf5fef9d3a3c437bb09b493ab6690173/artifacts
+end_time: 1702686338974
+entry_point_name: ''
+experiment_id: '333540025929643889'
+lifecycle_stage: active
+run_id: cf5fef9d3a3c437bb09b493ab6690173
+run_name: intrigued-lynx-19
+run_uuid: cf5fef9d3a3c437bb09b493ab6690173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702686337230
+status: 3
+tags: []
+user_id: vlad
